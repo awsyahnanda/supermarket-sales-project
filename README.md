@@ -3,6 +3,7 @@
 
 - Jupyter notebook: **[SupermarketCustomers_CPM2](https://github.com/awsyahnanda/supermarket-sales-project/blob/main/SupermarketCustomers_CPM2.ipynb)**
 - Data set: **[Supermarket Customers.csv](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK?usp=sharing)**
+- Dashboard : [**Supermarket Customers Dashboard**](https://public.tableau.com/app/profile/alif.wahyu.syahnanda/viz/SupermarketCustomersDashboard/Dashboard1)
 
 # Table of contents
 1. [Pendahuluan](#introduction)
